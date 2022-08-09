@@ -1,5 +1,10 @@
 package com.corejava;
 
+/**
+ * This is Hello World Program.
+ * @author Bhavika
+ * Since 9-8-2022
+ */
 public class HelloWorld {
 
 	public static void main(String[] args) {
@@ -13,7 +18,6 @@ public class HelloWorld {
 		    This code print of the Hello World,It's Amazing.
 		   */
 		   System.out.println("Hello World");
-		   
 	} 
 	
 }
